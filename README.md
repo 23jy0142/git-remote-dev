@@ -1,3 +1,3 @@
 # git-remote-dev
 
-新機能追あK
+新機能追加
